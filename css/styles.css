@@ -39,7 +39,7 @@ header {
 
 .coins {
     position: absolute;
-    bottom: 0px;
+    bottom: 100px;
 }
 
 .button-login {
